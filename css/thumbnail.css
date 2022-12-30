@@ -1,0 +1,26 @@
+.thumbnail{
+    width: 300px;
+    display: block;
+}
+.video__preview{
+    display: inline-block;
+    width: 300px;
+    padding:20px;
+    vertical-align: top;
+}
+.channel__picture{
+    display: inline-block;
+    width: 50px;
+    vertical-align: top;
+}
+.video__info{
+    display: inline-block;
+    width: 200px;
+}
+.profile__picture{
+    width:40px;
+    border-radius: 50px;
+}
+.thumbnail-row {
+margin-bottom: 12px;
+}
